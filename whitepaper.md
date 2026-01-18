@@ -103,4 +103,4 @@ McKinney, W. (2017). Python for Data Analysis: Data Wrangling with pandas, NumPy
 
  ![Diagram](images/SHAP_Summary_Plot.png)
  
-<img width="468" height="648" alt="image" src="https://github.com/user-attachments/assets/baa9b8e8-d600-4f91-a293-54d8421095f0" />
+
