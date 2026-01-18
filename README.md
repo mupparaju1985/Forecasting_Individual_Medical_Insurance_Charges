@@ -116,3 +116,14 @@ Detailed performance results and charts are available in the analysis notebooks.
 ```bash
 git clone https://github.com/mupparaju1985/Forecasting_Individual_Medical_Insurance_Charges.git
 cd Forecasting_Individual_Medical_Insurance_Charges
+
+### Step 2: Create Virtual Environment (Recommended)
+
+python -m venv venv
+source venv/bin/activate    # Windows: venv\Scripts\activate
+
+### Step 3: Install Dependencies
+pip install -r requirements.txt
+
+### Step 4: Run the Notebooks
+jupyter notebook
