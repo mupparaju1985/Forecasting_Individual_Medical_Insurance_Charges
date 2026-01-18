@@ -75,7 +75,7 @@ McKinney, W. (2017). Python for Data Analysis: Data Wrangling with pandas, NumPy
 7 Appendix: Figures
 •	Figure 1. Histogram of Insurance Charges
 
-![Diagram](images/ROC_Curve.png)
+
  
 •	Figure 2. Scatterplot of Age vs. Charges by Smoker Status
  
@@ -84,13 +84,23 @@ McKinney, W. (2017). Python for Data Analysis: Data Wrangling with pandas, NumPy
 •	Figure 4. Feature Correlation Heatmap
  
 •	Figure 5. RF Parity Plot (Actual vs. Predicted Charges)
+
+ ![Diagram](images/RF_Parity_Plot.png)
  
 •	Figure 6. Residuals vs. Predicted (Log Scale)
+
+ ![Diagram](images/Residuals_vs_Predicted.png)
  
 •	Figure 7. Normal Q–Q Plot of Residuals
+
+ ![Diagram](images/Normal_Q–Q_Plot_Residuals.png)
  
 •	Figure 8. ROC Curve (AUC = 0.9865)
+
+ ![Diagram](images/ROC_Curve.png)
  
 •	Figure 9. SHAP Summary Plot (Feature Impacts on Log-Charges)
+
+ ![Diagram](images/SHAP_Summary_Plot.png)
  
 <img width="468" height="648" alt="image" src="https://github.com/user-attachments/assets/baa9b8e8-d600-4f91-a293-54d8421095f0" />
