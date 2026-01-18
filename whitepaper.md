@@ -74,6 +74,8 @@ McKinney, W. (2017). Python for Data Analysis: Data Wrangling with pandas, NumPy
 
 7 Appendix: Figures
 •	Figure 1. Histogram of Insurance Charges
+
+![Diagram](images/Histogram of Insurance Charges.png)
  
 •	Figure 2. Scatterplot of Age vs. Charges by Smoker Status
  
